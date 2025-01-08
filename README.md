@@ -1,16 +1,42 @@
-## Hi there 👋
+<h2 align="left">👋 Hi there, welcome to my Github profile</h2>
 
-<!--
-**Thiago383/thiago383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🔍 Analytical, results-oriented, and driven by curiosity.<br>💡 Always questioning to learn and create, but staying calm when faced with challenges.<br>🌐 Technology lover, with the dream of traveling the world.<br>🤝 Building meaningful connections along the way.</p>
+
+###
+
+<h3 align="left">Technologies</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="25" alt="putty logo"  />
+</div>
+
+###
+
+<h3 align="left">My Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago383&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="120" alt="languages graph"  />
+</div>
+
+###
