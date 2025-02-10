@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔍 Analytical, results-oriented, and driven by curiosity.<br>💡 Always questioning to learn and create, but staying calm when faced with challenges.<br>🌐 Technology lover, with the dream of traveling the world.<br>🤝 Building meaningful connections along the way.</p>
+<p align="left">🔍 Analítico, orientado a resultados.<br>.<br>.<br>🤝 Construindo conexões significativas ao longo do caminho.</p>
 
 ###
 
