@@ -1,8 +1,6 @@
-<h2 align="left">👋 Olá, bem-vindo ao meu perfil no Github</h2>
+# 🧑‍💻  Thiago Machado
 
-###
-
-<h3 align="left">Sobre mim</h3>
+**`Estudante de tecnologia`**
 
 ###
 
@@ -10,7 +8,9 @@
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+---
+
+### 🤖 Tecnologias
 
 ###
 
@@ -30,13 +30,19 @@
 
 ###
 
-<h3 align="left">Minhas estatísticas</h3>
+### 📊 Estatísticas
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago383&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago383&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago383&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="120" alt="languages graph"  />
+</div>
+
